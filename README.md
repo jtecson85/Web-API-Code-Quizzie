@@ -19,7 +19,7 @@ The JavaScript Code Quiz is an interactive quiz designed to test the user's know
 ## Web Page
 ![Code Quiz](./Assets/Screenshot.png)
 
-[Deployed JavaScript Code Quiz](https://jtecson.github.io/quizzie/)
+[Deployed JavaScript Code Quiz](https://jtecson85.github.io/Web-API-Code-Quizzie/)
 
 ## Task List
 - [ ] Add more questions.
